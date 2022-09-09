@@ -1,5 +1,6 @@
 package com.bob.learn3Servlet;
 
+import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
 import javax.servlet.*;
@@ -10,6 +11,7 @@ public class ServletTest implements Servlet{
     @Override
     public void init(ServletConfig servletConfig) throws ServletException {
         log.info("执行init方法");
+        log.info("servletConfig名字"+servletConfig.getServletName());
 
     }
 
@@ -22,6 +24,7 @@ public class ServletTest implements Servlet{
     @Override
     public void service(ServletRequest servletRequest, ServletResponse servletResponse) throws ServletException, IOException {
         log.info("执行service方法");
+        log.info("服务方法名称"+servletRequest.getServerName());
     }
 
     @Override
