@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaLearnTest.iml" filepath="$PROJECT_DIR$/JavaLearnTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMyHttpLearn/JavaMyHttpLearn.iml" filepath="$PROJECT_DIR$/JavaMyHttpLearn/JavaMyHttpLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWebLearn/JavaWebLearn.iml" filepath="$PROJECT_DIR$/JavaWebLearn/JavaWebLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWebLearnTest/JavaWebLearnTest.iml" filepath="$PROJECT_DIR$/JavaWebLearnTest/JavaWebLearnTest.iml" />
     </modules>
   </component>
 </project>

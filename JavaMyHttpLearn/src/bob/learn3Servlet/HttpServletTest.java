@@ -1,4 +1,4 @@
-package com.bob.learn3Servlet;
+package bob.learn3Servlet;
 
 import javax.servlet.http.HttpServlet;
 

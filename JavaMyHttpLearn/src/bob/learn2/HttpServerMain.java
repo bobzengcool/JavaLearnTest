@@ -1,4 +1,4 @@
-package com.bob.learn2;
+package bob.learn2;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

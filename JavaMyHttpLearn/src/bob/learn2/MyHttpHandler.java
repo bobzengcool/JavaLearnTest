@@ -1,4 +1,4 @@
-package com.bob.learn2;
+package bob.learn2;
 
 import com.sun.net.httpserver.Headers;
 import com.sun.net.httpserver.HttpExchange;

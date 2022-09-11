@@ -1,4 +1,4 @@
-package com.bob.learn3Servlet;
+package bob.learn3Servlet;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;

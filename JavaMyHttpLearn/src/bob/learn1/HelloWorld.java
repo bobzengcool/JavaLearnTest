@@ -1,4 +1,4 @@
-package com.bob.learn1;
+package bob.learn1;
 
 public class HelloWorld {
     private String message;
