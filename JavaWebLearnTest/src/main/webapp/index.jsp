@@ -11,5 +11,7 @@
 <a href="hello-servlet">Hello Servlet你好我是bob</a>
 <br/>
 <a href="ServletTest2">这里不要注解</a>
+<br/>
+<a href="ServletOrig">通过实现servlet接口开发</a>
 </body>
 </html>
